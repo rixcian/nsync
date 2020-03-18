@@ -51,17 +51,17 @@ nsync.connect()
 ## 📝 Todo
 
 - <input type="checkbox" checked> Add upload of single file (finished)
-<br />
+
 - <input type="checkbox"> Add option for uploading whole directory
-<br />
+
 - <input type="checkbox"> Add unit tests for the library
-<br />
+
 - <input type="checkbox"> Add option for reading server & client settings from configuration file
-<br />
+
 - <input type="checkbox"> Add support for auto-sync files
-<br />
+
 - <input type="checkbox"> Add support for SSL encryption
-<br />
+
 - <input type="checkbox"> Add support for Gzip compression
-<br />
+
 - <input type="checkbox"> Create Graphical Interface (GUI)
