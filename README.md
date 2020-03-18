@@ -5,12 +5,16 @@
 **nsync** implements own TCP protocol for file transfer because firstly I wanted to just play with the Node.js Socket API and secondly I wanted to use some lightweight protocol, so why not to implement my own.
 
 
+<br />
+
 
 ## 🔍 Content
 
 - [📑 Documentation](#Documentation)
 - [📝 Todo](#Todo) 
 
+
+<br />
 
 
 ## 📑 Documentation
@@ -41,20 +45,23 @@ nsync.connect()
 ```
 
 
+<br />
+
+
 ## 📝 Todo
 
-<input type="checkbox" checked> Add upload of single file
+- <input type="checkbox" checked> Add upload of single file (finished)
 <br />
-<input type="checkbox"> Add option for uploading whole directory
+- <input type="checkbox"> Add option for uploading whole directory
 <br />
-<input type="checkbox"> Add unit tests for the library
+- <input type="checkbox"> Add unit tests for the library
 <br />
-<input type="checkbox"> Add option for reading server & client settings from configuration file
+- <input type="checkbox"> Add option for reading server & client settings from configuration file
 <br />
-<input type="checkbox"> Add support for auto-sync files
+- <input type="checkbox"> Add support for auto-sync files
 <br />
-<input type="checkbox"> Add support for SSL encryption
+- <input type="checkbox"> Add support for SSL encryption
 <br />
-<input type="checkbox"> Add support for Gzip compression
+- <input type="checkbox"> Add support for Gzip compression
 <br />
-<input type="checkbox"> Create Graphical Interface (GUI)
+- <input type="checkbox"> Create Graphical Interface (GUI)
